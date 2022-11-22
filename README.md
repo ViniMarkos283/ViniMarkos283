@@ -1,3 +1,5 @@
+<div align="center">
+
 ![github-header-image (1)](https://user-images.githubusercontent.com/102962949/203436709-18242da6-9e99-4a1f-a78a-40c837eee64c.png)
 
 
@@ -15,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinimarkos283&show_icons=true&locale=pt-br" alt="vinimarkos283" /></p>
   
-  </center>
+  </div>
 
