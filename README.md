@@ -2,8 +2,6 @@
 
 ![github-header-image (1)](https://user-images.githubusercontent.com/102962949/203436709-18242da6-9e99-4a1f-a78a-40c837eee64c.png)
 
-
-<h1 align="center">Oi 👋, eu sou o o Marcos Vinicius!</h1>
 <h3 align="center">Sou estudante dem Desenvolvimento de Sitemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinimarkos283&label=Profile%20views&color=0e75b6&style=flat" alt="vinimarkos283" /> </p>
