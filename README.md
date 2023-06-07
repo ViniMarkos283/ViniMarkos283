@@ -25,12 +25,6 @@
 
 <h3 align="center">Obrigado pela visita, volte sempre!</h3>
 
-<div align="center">
-  
-![tumblr_ce24cd90542cc47125027b3c5254db0c_5edaa21a_540](https://user-images.githubusercontent.com/102962949/203442353-0a2e6ae6-35cf-4465-a5b6-b2c3539dba07.gif)
-
-</div>
-
   
 
 
