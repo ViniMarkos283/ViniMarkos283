@@ -2,7 +2,7 @@
 
 ![github-header-image (1)](https://user-images.githubusercontent.com/102962949/203436709-18242da6-9e99-4a1f-a78a-40c837eee64c.png)
 
-<h3 align="center">Sou estudante em Desenvolvimento de Sitemas</h3>
+<h3 align="center">Sou estudante em Desenvolvimento de Sistemas</h3>
  
 </div>
 
