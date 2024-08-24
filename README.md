@@ -8,7 +8,7 @@
 
 👩‍💻 Estudo atualmente na Fatec Luigi Papaiz;
 
-🧠 Estou aprendendo programação front-end, back-end, e sobre o uso de outras tecnologias que c
+🧠 Estou aprendendo programação front-end, back-end, e sobre o uso de outras tecnologias que compoem aplicativos e sites
 
 📫 Como entrar em contato comigo? através do E-mail: **vinimarcos0283@gmail.com**;
 
