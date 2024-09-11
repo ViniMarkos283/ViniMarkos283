@@ -20,7 +20,7 @@
    <h3>Principais Linguagens usadas:</h3>
     <img src="https://skillicons.dev/icons?i=java,python,kotlin,html,css,js,cs,mysql&perline=4" />
    <h3>Principais Frameworks usados:</h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,spring,angular&perline=5" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,spring,angular,react&perline=5" />
    <h3>Principais IDEs, ferramentas e softwares usados:</h3>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,idea,unity,nodejs,mongodb,firebase,androidstudio&perline=3"/>
    <h3>Conhecimentos em nuvem:</h3>
