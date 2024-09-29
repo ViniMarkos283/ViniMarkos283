@@ -1,8 +1,9 @@
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniMarkos283&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniMarkos283&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-![github-header-image (1)](https://user-images.githubusercontent.com/102962949/203436709-18242da6-9e99-4a1f-a78a-40c837eee64c.png)
-
-<h3 align="center">Bem vindo, sou o Marcos, estudante em Desenvolvimento de Sistemas e desenvolvedor Fullstack</h3>
+<h3 align="center">Bem vindo, sou o Marcos, desenvolvedor Fullstack</h3>
  
 </div>
 
@@ -12,7 +13,7 @@
 
 📫 Como entrar em contato comigo? através do E-mail: **vinimarcos0283@gmail.com**;
 
-⚡️ Gosto de jogar, geralmente Destiny 2 ou algum Soulslike;
+⚡️ Gosto de jogar, geralmente RPG, jogos de luta, ação e FPS;
 
 <div align="center">
 <p align="center">
@@ -29,8 +30,12 @@
 </p>
 </div>
 
-<h3 align="center">Obrigado pela visita, volte sempre!</h3>
+<h3 align="center">Contador de Visitas:</h3>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ViniMarkos283/count.svg?"  />
+</div>
 
+<h3 align="center">Obrigado pela visita, volte sempre!</h3>
   
 
 
