@@ -11,9 +11,28 @@
 
 🧠 Estou aprendendo programação front-end, back-end, e sobre o uso de outras tecnologias que compoem aplicativos e sites
 
-📫 Como entrar em contato comigo? através do E-mail: **vinimarcos0283@gmail.com**;
+📫 E-mail para contato: **vinimarcos0283@gmail.com**;
 
-⚡️ Gosto de jogar, geralmente RPG, jogos de luta, ação e FPS;
+🌐 Meu Linkedin: [https://www.linkedin.com/in/vinimarcos](https://www.linkedin.com/in/marcos-vinicius-de-oliveira-719a14240/)
+
+⚡️ Hobbies favoritos: Ler, ouvir musica, ir ao cinema, desenhar e jogar jogos eletronicos;
+
+⭐ Linguagens favoritas de programação: Java e Kotlin;
+
+⭐ Linguagens de consulta favoritas: SQl e JSON;
+
+## Repositórios em Destaque
+### [Aulas de Programação Fatec](https://github.com/ViniMarkos283/AulasProgramacao-Fatec)
+Repositório contendo materiais e exercícios das aulas de programação da Fatec.  
+**Tecnologias utilizadas:** Python, Java, Kotlin, C++, JavaScript, HTML, CSS.
+
+### [Aulas de Banco de Dados Fatec](https://github.com/ViniMarkos283/AulasBancoDeDados-Fatec)
+Repositório com conteúdos relacionados às aulas de banco de dados da Fatec.  
+**Tecnologias utilizadas:** MySQL, JSON.
+
+### [Aulas de Java Senai](https://github.com/ViniMarkos283/aulas-java-senai-1sem)
+Repositório dedicado às aulas de Java do Senai no primeiro semestre.  
+**Tecnologias utilizadas:** Java.
 
 <div align="center">
 <p align="center">
