@@ -15,13 +15,13 @@
 
 🌐 Meu Linkedin: [https://www.linkedin.com/in/vinimarcos](https://www.linkedin.com/in/marcos-vinicius-de-oliveira-719a14240/)
 
-⚡️ Hobbies favoritos: Ler, ouvir musica, ir ao cinema, desenhar e jogar jogos eletronicos;
-
-⭐ Linguagens favoritas de programação: Java e Kotlin;
-
-⭐ Linguagens de consulta favoritas: SQl e JSON;
+⭐ Linguagens favoritas de programação: Java, Python e JS;
 
 ## Repositórios em Destaque
+### [Projeto Integrador - IntegraKids](https://github.com/Jornada-Da-Inclusao/FrontEnd))
+Projeto principal realizado em grupo na faculdade de tecnologia Fatec.
+**Tecnologias utilizadas:** React.js, Java, HTML, CSS, JavaScript, Google Firebase, Render, MongoDB (noSQL).
+
 ### [Aulas de Programação Fatec](https://github.com/ViniMarkos283/AulasProgramacao-Fatec)
 Repositório contendo materiais e exercícios das aulas de programação da Fatec.  
 **Tecnologias utilizadas:** Python, Java, Kotlin, C++, JavaScript, HTML, CSS.
@@ -33,6 +33,13 @@ Repositório com conteúdos relacionados às aulas de banco de dados da Fatec.
 ### [Aulas de Java Senai](https://github.com/ViniMarkos283/aulas-java-senai-1sem)
 Repositório dedicado às aulas de Java do Senai no primeiro semestre.  
 **Tecnologias utilizadas:** Java.
+
+### [TCC - FoxWare](https://github.com/ViniMarkos283/FoxWare-Web)
+Projeto final realizado no ultimo semestre do curso técnico no SENAI.
+
+**Tecnologias utilizadas (WEB):** HTML, CSS, JS.
+
+**Tecnologias utilizadas:(App - disponivel em outro repositório)** C sharp, unity, Vuforia.
 
 <div align="center">
 <p align="center">
