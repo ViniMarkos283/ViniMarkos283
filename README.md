@@ -4,9 +4,6 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[ViniMarkos283]/[ViniMarkos283]/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-
 <h3 align="center">Bem vindo, sou o Marcos, desenvolvedor Fullstack</h3>
  
 </div>
