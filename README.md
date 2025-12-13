@@ -51,9 +51,7 @@
    <h3>Principais IDEs, ferramentas e softwares usados:</h3>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,idea,unity,nodejs,mongodb,firebase,androidstudio&perline=3"/>
    <h3>Conhecimentos em nuvem:</h3>
-    <img src="https://skillicons.dev/icons?i=gcp,aws"/>
-   <h3>OS conhecidos:</h3>
-    <img src="https://skillicons.dev/icons?i=windows,kali"/>
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
   </a>
 </p>
 </div>
