@@ -21,7 +21,7 @@
 ## Repositórios em Destaque
 ### [Projeto Integrador - IntegraKids](https://github.com/Jornada-Da-Inclusao/FrontEnd)
 #### Projeto principal realizado em grupo na faculdade de tecnologia Fatec.
-**Tecnologias utilizadas:** React.js, React Native, Java, HTML, CSS, JavaScript, Google Firebase, Render, MongoDB (noSQL).
+**Tecnologias utilizadas:** React.js, Android Studio, Java, HTML, CSS, JavaScript, Google Firebase, Render, MongoDB (noSQL).
 
 ### [Aulas de Programação Fatec](https://github.com/ViniMarkos283/AulasProgramacao-Fatec)
 #### Repositório contendo materiais e exercícios das aulas de programação da Fatec.  
