@@ -76,5 +76,5 @@
 
 <h3 align="center">Obrigado pela visita, volte sempre!</h3> 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102962949/203442353-0a2e6ae6-35cf-4465-a5b6-b2c3539dba07.gif" width="500px" />
+  <img src="https://media1.tenor.com/m/Dn12S2BHR0UAAAAd/agnes-tachyon-uma-musume.gif" width="500px" />
 </div>
