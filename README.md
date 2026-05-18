@@ -4,7 +4,7 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[ViniMarkos283]/[ViniMarkos283]/output/pacman-contribution-graph.svg">
 </picture>
 
-<h3 align="center">Bem vindo, sou o Marcos, Desenvolvedor Front-end & Mobile</h3>
+<h3 align="center">Bem vindo, sou o Marcos, Desenvolvedor Full Stack Júnior</h3>
  
 </div>
 
@@ -31,9 +31,9 @@
 #### Repositório com conteúdos relacionados às aulas de banco de dados da Fatec.  
 **Tecnologias utilizadas:** MySQL, JSON.
 
-### [Aulas de Java Senai](https://github.com/ViniMarkos283/aulas-java-senai-1sem)
-#### Repositório dedicado às aulas de Java do Senai no primeiro semestre.  
-**Tecnologias utilizadas:** Java.
+### [Hackathon - backend do sistema de gestão](https://github.com/ViniMarkos283/Hackathon-backEnd-Nazca)
+#### Repositório que contém o projeto do Backend feito durante minha participação no Hackathon. 
+**Tecnologias utilizadas:** Java, Spring Boot, MySQL.
 
 ### [TCC - FoxWare](https://github.com/ViniMarkos283/FoxWare-Web)
 #### Projeto final realizado no ultimo semestre do curso técnico no SENAI.
@@ -42,20 +42,20 @@
 
 <div align="center">
    <h3>Distribuição de Competências:</h3>
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Front-end%22%2C%22Mobile%22%2C%22Cloud%22%2C%22Banco%20de%20Dados%22%2C%22Cybersecurity%22%2C%22Back-end%22%2C%22DevOps%22%2C%22QA%2FTestes%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B85%2C82%2C70%2C65%2C55%2C65%2C45%2C55%5D%2C%22borderColor%22%3A%22%23FFD700%22%2C%22backgroundColor%22%3A%22rgba(255%2C215%2C0%2C0.25)%22%2C%22pointBackgroundColor%22%3A%22%23FFD700%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22min%22%3A0%2C%22max%22%3A90%2C%22stepSize%22%3A15%2C%22showLabelBackdrop%22%3Afalse%2C%22color%22%3A%22white%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22white%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22white%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22white%22%7D%7D%7D%7D" />
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Front-end%22%2C%22Mobile%22%2C%22Cloud%22%2C%22Banco%20de%20Dados%22%2C%22Cybersecurity%22%2C%22Back-end%22%2C%22DevOps%22%2C%22QA%2FTestes%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B88%2C84%2C72%2C78%2C58%2C80%2C52%2C58%5D%2C%22borderColor%22%3A%22%23FFD700%22%2C%22backgroundColor%22%3A%22rgba(255%2C215%2C0%2C0.25)%22%2C%22pointBackgroundColor%22%3A%22%23FFD700%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22min%22%3A0%2C%22max%22%3A100%2C%22stepSize%22%3A20%2C%22showLabelBackdrop%22%3Afalse%2C%22color%22%3A%22white%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22white%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22white%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22white%22%7D%7D%7D%7D" />
 
 <h3>Mapa de Competências Técnicas</h3>
 
 | Área               | Tecnologias / Foco Atual                                                                 | Nível |
 |--------------------|-----------------------------------------------------------------------------------------|-------|
-| Front-end          | React.js · Componentização · Consumo de APIs REST · Interfaces responsivas              | 85%   |
-| Mobile             | React Native · Android Studio · Layouts · Integração com APIs                          | 82%   |
-| Cloud              | Microsoft Azure · Máquinas Virtuais · Deploy de aplicações · Serviços em nuvem         | 70%   |
-| Banco de Dados     | Modelagem Física · SQL · Relacional e NoSQL · Integração com sistemas                  | 65%   |
-| Cybersecurity      | Identificação de ameaças · Boas práticas · Segurança em aplicações                     | 55%   |
-| Back-end           | APIs REST · Spring Boot · Microserviços · Autenticação                                 | 65%   |
-| DevOps             | Docker · Versionamento Git · Deploy básico · CI/CD inicial                             | 45%   |
-| QA / Testes        | Test Suites · JUnit · Testes funcionais · Validação automatizada                       | 55%   |
+| Front-end          | React.js · Componentização · Consumo de APIs REST · Interfaces responsivas · Integração Full Stack | 88%   |
+| Mobile             | React Native · Android Studio · Layouts · Integração com APIs                          | 84%   |
+| Cloud              | Microsoft Azure · Máquinas Virtuais · Deploy de aplicações · Serviços em nuvem         | 72%   |
+| Banco de Dados     | Modelagem Física · SQL · Relacional e NoSQL · Criação de banco · Integração Back-end   | 78%   |
+| Cybersecurity      | Identificação de ameaças · Boas práticas · Segurança em aplicações                     | 58%   |
+| Back-end           | APIs REST · Spring Boot · Microserviços · Autenticação · Integração com Banco de Dados | 80%   |
+| DevOps             | Docker · Versionamento Git · Deploy básico · CI/CD inicial                             | 52%   |
+| QA / Testes        | Test Suites · JUnit · Testes funcionais · Validação automatizada                       | 58%   |
 
 </div>
 
