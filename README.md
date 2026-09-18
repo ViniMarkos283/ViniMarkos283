@@ -6,7 +6,7 @@
 
 <h3 align="center">Bem vindo, sou o Marcos, Desenvolvedor Full Stack Júnior</h3>
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Luigi Papaiz,
+<p>Sou estudante do curso de Desenvolvimento de Software Multiplataforma na Fatec Luigi Papaiz,
 com foco em desenvolvimento Full Stack. Tenho experiência prática com Java,
 Spring Boot, React.js e bancos de dados relacionais e NoSQL — construída em
 projetos acadêmicos, um Hackathon e meu TCC no SENAI.</p>
